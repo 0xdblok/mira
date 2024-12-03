@@ -22,7 +22,7 @@ export default function Home() {
         <Image src={logoss} alt="Logo" width={120} height={120} />
       
      </div> <h1 className="text-4xl pt-8   font-mono font-bold text-center justify-center flex text-white mb-8">
-        MiraaAI
+        MiraAI
         </h1>
       <div className="flex flex-col items-center justify-center pt-8">
         
